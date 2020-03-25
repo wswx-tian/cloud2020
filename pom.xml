@@ -24,6 +24,7 @@
       <module>cloud-consumerzk-order80</module>
       <module>cloud-consumerfn-order80</module>
       <module>cloud-gateway-gateway9527</module>
+    <module>cloud-config-center-3344</module>
   </modules>
 
   <!-- 统一管理jar包版本 -->
