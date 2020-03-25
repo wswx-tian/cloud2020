@@ -9,7 +9,7 @@
   <version>0.1.0-SNAPSHOT</version>
   <packaging>pom</packaging>
 
-  <!--父工程-->
+  <!--父工程 -->
   <modules>
       <module>cloud-provider-payment8001</module>
       <module>cloud-consumer-oder80</module>
